@@ -1,1 +1,44 @@
-
+{
+  "global": {
+    "test": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "base-2": {
+      "value": "8",
+      "type": "spacing"
+    },
+    "base-3": {
+      "value": "12",
+      "type": "spacing"
+    },
+    "base-4": {
+      "value": "16",
+      "type": "spacing"
+    },
+    "base-5": {
+      "value": "20",
+      "type": "spacing"
+    },
+    "base-6": {
+      "value": "24",
+      "type": "spacing"
+    },
+    "base-7": {
+      "value": "28",
+      "type": "spacing"
+    },
+    "base-8": {
+      "value": "32",
+      "type": "spacing"
+    },
+    "base-9": {
+      "value": "36",
+      "type": "spacing"
+    },
+    "base-10": {
+      "value": "40",
+      "type": "spacing"
+    }
+  }
+}
