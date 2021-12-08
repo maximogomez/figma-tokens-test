@@ -1,6 +1,6 @@
 {
   "global": {
-    "test": {
+    "changefromgithub": {
       "value": "4",
       "type": "spacing"
     },
