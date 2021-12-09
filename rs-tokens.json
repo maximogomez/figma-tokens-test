@@ -41,9 +41,8 @@
       "type": "spacing"
     }
   }
-}
 
-// actual constant file content test
+
 
 export const COLORS = {
   PRIMARY: {
@@ -82,3 +81,4 @@ export const COLORS = {
     2: '#FFFFFF',
   },
 };
+}
