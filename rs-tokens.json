@@ -42,3 +42,43 @@
     }
   }
 }
+
+// actual constant file content test
+
+export const COLORS = {
+  PRIMARY: {
+    0: '#330072',
+    1: '#724C9A',
+    2: '#AE95C4',
+    3: '#E9E2EF',
+  },
+  SECONDARY: {
+    0: '#E1BBB4',
+    1: '#ECCEC9',
+    2: '#F4E2E0',
+    3: '#FBF7F6',
+  },
+  TERTIARY: {
+    0: '#47D7AC',
+    1: '#86E2C5',
+    2: '#BCEEDD',
+    3: '#EEFAF5',
+  },
+  QUATERNARY: {
+    0: '#64D5EC',
+    1: '#8FE3F4',
+    2: '#B1EBF6',
+    3: '#DCF9FF',
+  },
+  GRAYSCALE: {
+    0: '#333F48',
+    1: '#6A737B',
+    2: '#A6ABAF',
+    3: '#E7E8EA',
+  },
+  EXTRA: {
+    0: '#000000',
+    1: '#F5F6F7',
+    2: '#FFFFFF',
+  },
+};
